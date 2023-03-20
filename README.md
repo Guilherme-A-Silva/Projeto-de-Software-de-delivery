@@ -1,7 +1,7 @@
-Mergulho Spring Rest 17 
+Sofware de Delivery
 ---
 
-Uma API Rest desenvolvida com Spring e banco de dados MySQL
+Um Software de Delivery desenvolvido em C++ com Biblioteca de funções propria e manipulação de arquivos.bin
 
 Tecnologias Utilizadas
 ---
