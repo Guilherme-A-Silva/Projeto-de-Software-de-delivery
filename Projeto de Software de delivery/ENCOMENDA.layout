@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Layout>
 	<Files>
-		<File Name="FuncBiblioteca.cpp" Top="Yes" Tabpos="1" TopLine="2461">
-			<Cursor Line="2484" Column="22"/>
+		<File Name="FuncBiblioteca.cpp" Top="No" Tabpos="1" TopLine="2452">
+			<Cursor Line="2464" Column="16"/>
 		</File>
 		<File Name="BiblioGA.h" Top="No" Tabpos="2" TopLine="158">
 			<Cursor Line="163" Column="54"/>
 		</File>
-		<File Name="ArquivoPrincipal.cpp" Top="No" Tabpos="3" TopLine="1">
+		<File Name="ArquivoPrincipal.cpp" Top="Yes" Tabpos="3" TopLine="7">
 			<Cursor Line="33" Column="16"/>
 		</File>
 	</Files>
